@@ -159,6 +159,8 @@ public class LgyFlutterActivity extends FlutterActivity{
                 startActivity(intent);
 ```
 
+# 代码地址
+https://github.com/lgygg/AndroidWithFlutterTest.git  //master分支
 
 # 参考文章
 https://flutter.cn/docs/development/add-to-app/android/project-setup
